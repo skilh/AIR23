@@ -7,3 +7,6 @@ Group Members:
     Tarik Barucija
     Ilhan Skender
     Namik Barucija
+
+
+Open main.ipynb for more info
